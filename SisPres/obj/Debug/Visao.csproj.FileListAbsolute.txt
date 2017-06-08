@@ -1,0 +1,95 @@
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\bin\Debug\SisPres.exe.config
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\bin\Debug\SisPres.exe
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\bin\Debug\SisPres.pdb
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\obj\Debug\SisPres.FrmLogin.resources
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\obj\Debug\SisPres.Properties.Resources.resources
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\obj\Debug\SisPres.exe
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\obj\Debug\SisPres.pdb
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\bin\Debug\Controle.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\bin\Debug\Modelo.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\bin\Debug\Dados.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\bin\Debug\Controle.pdb
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\bin\Debug\Modelo.pdb
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\bin\Debug\Dados.pdb
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadUsuario.resources
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\SisPres\obj\Debug\SisPres.FrmPrincipal.resources
+E:\SisPres\SisPres\bin\Debug\SisPres.exe.config
+E:\SisPres\SisPres\obj\Debug\SisPres.exe
+E:\SisPres\SisPres\obj\Debug\SisPres.pdb
+E:\SisPres\SisPres\bin\Debug\SisPres.exe
+E:\SisPres\SisPres\bin\Debug\SisPres.pdb
+E:\SisPres\SisPres\bin\Debug\Controle.dll
+E:\SisPres\SisPres\bin\Debug\Modelo.dll
+E:\SisPres\SisPres\bin\Debug\Dados.dll
+E:\SisPres\SisPres\bin\Debug\Controle.pdb
+E:\SisPres\SisPres\bin\Debug\Modelo.pdb
+E:\SisPres\SisPres\bin\Debug\Dados.pdb
+E:\SisPres\SisPres\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+E:\SisPres\SisPres\obj\Debug\SisPres.FrmLogin.resources
+E:\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadUsuario.resources
+E:\SisPres\SisPres\obj\Debug\SisPres.FrmPrincipal.resources
+E:\SisPres\SisPres\obj\Debug\SisPres.Properties.Resources.resources
+E:\SisPres\SisPres\obj\Debug\Visao.csproj.GenerateResource.Cache
+G:\SisPres\SisPres\bin\Debug\SisPres.exe.config
+G:\SisPres\SisPres\obj\Debug\SisPres.exe
+G:\SisPres\SisPres\obj\Debug\SisPres.pdb
+G:\SisPres\SisPres\bin\Debug\SisPres.exe
+G:\SisPres\SisPres\bin\Debug\SisPres.pdb
+G:\SisPres\SisPres\bin\Debug\Controle.dll
+G:\SisPres\SisPres\bin\Debug\Modelo.dll
+G:\SisPres\SisPres\bin\Debug\Dados.dll
+G:\SisPres\SisPres\bin\Debug\Controle.pdb
+G:\SisPres\SisPres\bin\Debug\Modelo.pdb
+G:\SisPres\SisPres\bin\Debug\Dados.pdb
+G:\SisPres\SisPres\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+G:\SisPres\SisPres\obj\Debug\SisPres.FrmLogin.resources
+G:\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadUsuario.resources
+G:\SisPres\SisPres\obj\Debug\SisPres.FrmPrincipal.resources
+G:\SisPres\SisPres\obj\Debug\SisPres.Properties.Resources.resources
+G:\SisPres\SisPres\obj\Debug\Visao.csproj.GenerateResource.Cache
+F:\SisPres\SisPres\bin\Debug\SisPres.exe.config
+F:\SisPres\SisPres\obj\Debug\SisPres.exe
+F:\SisPres\SisPres\obj\Debug\SisPres.pdb
+F:\SisPres\SisPres\bin\Debug\SisPres.exe
+F:\SisPres\SisPres\bin\Debug\SisPres.pdb
+F:\SisPres\SisPres\bin\Debug\Controle.dll
+F:\SisPres\SisPres\bin\Debug\Modelo.dll
+F:\SisPres\SisPres\bin\Debug\Dados.dll
+F:\SisPres\SisPres\bin\Debug\Controle.pdb
+F:\SisPres\SisPres\bin\Debug\Modelo.pdb
+F:\SisPres\SisPres\bin\Debug\Dados.pdb
+F:\SisPres\SisPres\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+F:\SisPres\SisPres\obj\Debug\SisPres.FrmLogin.resources
+F:\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadUsuario.resources
+F:\SisPres\SisPres\obj\Debug\SisPres.FrmPrincipal.resources
+F:\SisPres\SisPres\obj\Debug\SisPres.Properties.Resources.resources
+F:\SisPres\SisPres\obj\Debug\Visao.csproj.GenerateResource.Cache
+G:\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadEvento.resources
+G:\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadPresenca.resources
+F:\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadEvento.resources
+F:\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadPresenca.resources
+D:\SisPres\SisPres\bin\Debug\SisPres.exe.config
+D:\SisPres\SisPres\obj\Debug\SisPres.exe
+D:\SisPres\SisPres\obj\Debug\SisPres.pdb
+D:\SisPres\SisPres\bin\Debug\SisPres.exe
+D:\SisPres\SisPres\bin\Debug\SisPres.pdb
+D:\SisPres\SisPres\bin\Debug\Controle.dll
+D:\SisPres\SisPres\bin\Debug\Modelo.dll
+D:\SisPres\SisPres\bin\Debug\Dados.dll
+D:\SisPres\SisPres\bin\Debug\Controle.pdb
+D:\SisPres\SisPres\bin\Debug\Modelo.pdb
+D:\SisPres\SisPres\bin\Debug\Dados.pdb
+D:\SisPres\SisPres\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+D:\SisPres\SisPres\obj\Debug\SisPres.FrmLogin.resources
+D:\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadEvento.resources
+D:\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadPresenca.resources
+D:\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadUsuario.resources
+D:\SisPres\SisPres\obj\Debug\SisPres.FrmPrincipal.resources
+D:\SisPres\SisPres\obj\Debug\SisPres.Properties.Resources.resources
+D:\SisPres\SisPres\obj\Debug\Visao.csproj.GenerateResource.Cache
+F:\SisPres\SisPres\obj\Debug\SisPres.FrmTeste.resources
+F:\SisPres\SisPres\obj\Debug\SisPres.FrmMdiCadLocalizacao.resources
+F:\SisPres\SisPres\bin\Debug\db_presenca.mdf
+F:\SisPres\SisPres\bin\Debug\db_presenca_log.ldf

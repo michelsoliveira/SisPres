@@ -1,0 +1,38 @@
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Dados\bin\Debug\Dados.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Dados\bin\Debug\Dados.pdb
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Dados\bin\Debug\Modelo.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Dados\bin\Debug\Modelo.pdb
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Dados\obj\Debug\Dados.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Dados\obj\Debug\Dados.pdb
+E:\SisPres\Dados\bin\Debug\Dados.dll
+E:\SisPres\Dados\bin\Debug\Dados.pdb
+E:\SisPres\Dados\bin\Debug\Modelo.dll
+E:\SisPres\Dados\bin\Debug\Modelo.pdb
+E:\SisPres\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+E:\SisPres\Dados\obj\Debug\Dados.dll
+E:\SisPres\Dados\obj\Debug\Dados.pdb
+G:\SisPres\Dados\bin\Debug\Dados.dll
+G:\SisPres\Dados\bin\Debug\Dados.pdb
+G:\SisPres\Dados\bin\Debug\Modelo.dll
+G:\SisPres\Dados\bin\Debug\Modelo.pdb
+G:\SisPres\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+G:\SisPres\Dados\obj\Debug\Dados.dll
+G:\SisPres\Dados\obj\Debug\Dados.pdb
+F:\SisPres\Dados\bin\Debug\Dados.dll
+F:\SisPres\Dados\bin\Debug\Dados.pdb
+F:\SisPres\Dados\bin\Debug\Modelo.dll
+F:\SisPres\Dados\bin\Debug\Modelo.pdb
+F:\SisPres\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+F:\SisPres\Dados\obj\Debug\Dados.dll
+F:\SisPres\Dados\obj\Debug\Dados.pdb
+D:\SisPres\Dados\bin\Debug\Dados.dll
+D:\SisPres\Dados\bin\Debug\Dados.pdb
+D:\SisPres\Dados\bin\Debug\Modelo.dll
+D:\SisPres\Dados\bin\Debug\Modelo.pdb
+D:\SisPres\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+D:\SisPres\Dados\obj\Debug\Dados.dll
+D:\SisPres\Dados\obj\Debug\Dados.pdb
+F:\SisPres\Dados\bin\Debug\db_presenca.mdf
+F:\SisPres\Dados\bin\Debug\db_presenca_log.ldf
+F:\SisPres\Dados\bin\Debug\Dados.dll.config

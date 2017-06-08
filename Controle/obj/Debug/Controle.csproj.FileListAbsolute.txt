@@ -1,0 +1,47 @@
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Controle\bin\Debug\Controle.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Controle\bin\Debug\Controle.pdb
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Controle\bin\Debug\Dados.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Controle\bin\Debug\Modelo.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Controle\bin\Debug\Dados.pdb
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Controle\bin\Debug\Modelo.pdb
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Controle\obj\Debug\Controle.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Controle\obj\Debug\Controle.pdb
+E:\SisPres\Controle\bin\Debug\Controle.dll
+E:\SisPres\Controle\bin\Debug\Controle.pdb
+E:\SisPres\Controle\bin\Debug\Dados.dll
+E:\SisPres\Controle\bin\Debug\Modelo.dll
+E:\SisPres\Controle\bin\Debug\Dados.pdb
+E:\SisPres\Controle\bin\Debug\Modelo.pdb
+E:\SisPres\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+E:\SisPres\Controle\obj\Debug\Controle.dll
+E:\SisPres\Controle\obj\Debug\Controle.pdb
+G:\SisPres\Controle\bin\Debug\Controle.dll
+G:\SisPres\Controle\bin\Debug\Controle.pdb
+G:\SisPres\Controle\bin\Debug\Dados.dll
+G:\SisPres\Controle\bin\Debug\Modelo.dll
+G:\SisPres\Controle\bin\Debug\Dados.pdb
+G:\SisPres\Controle\bin\Debug\Modelo.pdb
+G:\SisPres\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+G:\SisPres\Controle\obj\Debug\Controle.dll
+G:\SisPres\Controle\obj\Debug\Controle.pdb
+F:\SisPres\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+F:\SisPres\Controle\obj\Debug\Controle.dll
+F:\SisPres\Controle\bin\Debug\Controle.dll
+F:\SisPres\Controle\bin\Debug\Controle.pdb
+F:\SisPres\Controle\bin\Debug\Dados.dll
+F:\SisPres\Controle\bin\Debug\Modelo.dll
+F:\SisPres\Controle\bin\Debug\Dados.pdb
+F:\SisPres\Controle\bin\Debug\Modelo.pdb
+F:\SisPres\Controle\obj\Debug\Controle.pdb
+D:\SisPres\Controle\bin\Debug\Controle.dll
+D:\SisPres\Controle\bin\Debug\Controle.pdb
+D:\SisPres\Controle\bin\Debug\Dados.dll
+D:\SisPres\Controle\bin\Debug\Modelo.dll
+D:\SisPres\Controle\bin\Debug\Dados.pdb
+D:\SisPres\Controle\bin\Debug\Modelo.pdb
+D:\SisPres\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+D:\SisPres\Controle\obj\Debug\Controle.dll
+D:\SisPres\Controle\obj\Debug\Controle.pdb
+F:\SisPres\Controle\bin\Debug\db_presenca.mdf
+F:\SisPres\Controle\bin\Debug\db_presenca_log.ldf

@@ -1,0 +1,25 @@
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Modelo\bin\Debug\Modelo.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Modelo\bin\Debug\Modelo.pdb
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Modelo\obj\Debug\Modelo.dll
+C:\Users\michel.oliveira\Documents\Visual Studio 2012\Projects\SisPres\Modelo\obj\Debug\Modelo.pdb
+E:\SisPres\Modelo\bin\Debug\Modelo.dll
+E:\SisPres\Modelo\bin\Debug\Modelo.pdb
+E:\SisPres\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+E:\SisPres\Modelo\obj\Debug\Modelo.dll
+E:\SisPres\Modelo\obj\Debug\Modelo.pdb
+G:\SisPres\Modelo\bin\Debug\Modelo.dll
+G:\SisPres\Modelo\bin\Debug\Modelo.pdb
+G:\SisPres\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+G:\SisPres\Modelo\obj\Debug\Modelo.dll
+G:\SisPres\Modelo\obj\Debug\Modelo.pdb
+F:\SisPres\Modelo\bin\Debug\Modelo.dll
+F:\SisPres\Modelo\bin\Debug\Modelo.pdb
+F:\SisPres\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+F:\SisPres\Modelo\obj\Debug\Modelo.dll
+F:\SisPres\Modelo\obj\Debug\Modelo.pdb
+D:\SisPres\Modelo\bin\Debug\Modelo.dll
+D:\SisPres\Modelo\bin\Debug\Modelo.pdb
+D:\SisPres\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\SisPres\Modelo\obj\Debug\Modelo.dll
+D:\SisPres\Modelo\obj\Debug\Modelo.pdb
